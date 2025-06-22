@@ -74,3 +74,16 @@ Herz-Lungen-Wiederbelebung(  + 2 Atemg
 3. Erste Hilfe leisten
 4. Rettungsdienst
 5. Krankenhaus
+## Maßnahmen bei der Atemstörung
+- Schnell handeln!!!
+- Oberkörper nach vorne beugen
+- bis zu 5 Mal zwischen die Schulterblätter schlagen
+- Heimlich-Manöver
+  - 5 Kompressionen des Oberbauches
+  - Druck nach hinten & oben
+- jeweils Erfolg der Maßnahme prüfen
+## Kreislaufstörung
+### Herzinfarkt
+- Verschluss eines oder mehrerer Herzkranzgefäße
+- Minderversorgung der Herzmuskeln mit Sauerstoff
+- Absterben der Zellen
