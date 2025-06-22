@@ -1,9 +1,8 @@
 # Erste-Hilfe-Kurs
-## Absichern der Unfallstelle
-## Kontaktaufnahme bei bewusstlosen Personen
-## Stabile Seitenlage
-## Herz-Lungen-Wiederbelebung
+
 ## AED
+- Automatisierter Externer Defibrillator
+- bei Kammerflimmern
 ## Wundversorgung / Druckverband
 ### Gefahren
 - Wundinfektion
