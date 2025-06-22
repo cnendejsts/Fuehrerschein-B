@@ -5,6 +5,19 @@
 ## Herz-Lungen-Wiederbelebung
 ## AED
 ## Wundversorgung / Druckverband
+### Gefahren
+- Wundinfektion
+- Volumenmangelschock (Verbluten)
+### Regeln
+- Handschuhe tragen
+- Wunden nicht berühren
+- Fremdkörper nicht entfernen
+- auf Fremdkörper keinen Druck ausüben
+- möglichst Keimfreie bzw. sterile Wundauflagen verwenden
+  - Wundschnellverband
+  - Verbandpäckchen
+  - Kompresse
+  - Druckverband bei lebensbedrohlichen Blutungen
 ## Helmabnahme
 ## Herzinfarkt / Schlaganfall / Schock
 ## Vergiftung / Verärzung / Stromunfall / Krampfanfall
