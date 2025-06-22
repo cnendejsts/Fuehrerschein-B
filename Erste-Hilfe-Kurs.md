@@ -1,9 +1,9 @@
 # Erste-Hilfe-Kurs
+## Wissen
+[Organspendeausweis](https://www.organspende-info.de/organspendeausweis-download-und-bestellen/)
+[Unterlassene Hifeleistung](https://www.gesetze-im-internet.de/stgb/__323c.html) 
 
-## AED
-- Automatisierter Externer Defibrillator
-- bei Kammerflimmern
-## Wundversorgung / Druckverband
+## Wundversorgung
 ### Gefahren
 - Wundinfektion
 - Volumenmangelschock (Verbluten)
@@ -17,12 +17,7 @@
   - Verbandpäckchen
   - Kompresse
   - Druckverband bei lebensbedrohlichen Blutungen
-## Herzinfarkt / Schlaganfall / Schock
-## Vergiftung / Verärzung / Stromunfall / Krampfanfall
-## Verbrennung / Verbrühung / Sonnenstich / Hitzschlag / Unterkühlung / Erfrierung
-## Wissen
-[Organspendeausweis](https://www.organspende-info.de/organspendeausweis-download-und-bestellen/)
-[Unterlassene Hifeleistung](https://www.gesetze-im-internet.de/stgb/__323c.html)  
+ 
 ## Auffinden einer Person
 ### Bewusstlosigkeit
 - Erschlaffung der Muskulatur
@@ -58,7 +53,8 @@ situationsgerechte Hilfe leisten
 - Bewusstsein nicht vorhanden && Atmung vorhanden
 stabile Seitenlage
 - Bewusstsein nicht vorhanden && Atmung nicht vorhanden
-Herz-Lungen-Wiederbelebung(  + 2 Atemg
+  - Herz-Lungen-Wiederbelebung
+  - Automatisierter Externer Defibrillator(AED) bei Kammerflimmern
 ## Rettungskette
 1. Absichern / Eigenschutz  
 - Warnblinklicht einschalten
