@@ -27,7 +27,13 @@ z.B. Kneifen an der Innenseite des Oberarmes
 - Atemwege freimachen
   - *orientierender Blick in die Mundhöhle*
   - *Kopf überstrecken(lebensrettender Handgriff)*
-
+- Hören
+  - mit dem Ohr dicht an Mund und Nase
+- Sehen
+  - ob sich der Oberkörper hebt und senkt
+- Fühlen
+  - Luftstrom an der Wange des Helfers
+  - Bewegung am Brustkorb oder Bauch
 ## Rettungskette
 1. Absichern / Eigenschutz  
 - Warnblinklicht einschalten
