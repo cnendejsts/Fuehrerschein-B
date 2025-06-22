@@ -82,8 +82,36 @@ Herz-Lungen-Wiederbelebung(  + 2 Atemg
   - 5 Kompressionen des Oberbauches
   - Druck nach hinten & oben
 - jeweils Erfolg der Maßnahme prüfen
-## Kreislaufstörung
-### Herzinfarkt
+## Kreislaufstörung - Herzinfarkt 心肌梗死
+### Ursachen
 - Verschluss eines oder mehrerer Herzkranzgefäße
 - Minderversorgung der Herzmuskeln mit Sauerstoff
 - Absterben der Zellen
+### Symptome
+- Dumper Druckschmerz oder Engegefühl hinter dem Brustbein
+- Brustschmerz ausstrahlend in den Arm, Hals oder Bauch
+- Atemnot
+- Unruhe, Todesangst
+- klatschweißige Haut
+- häufig auch Übelkeit und Erbrechen
+### Maßnahmen dagegen
+- Notruf schnell handeln!!!
+- den Patient ständig ansprechen beruhigen 
+- beengende Kleidung lockern
+- Lagerung sitzend mit erhöhtem Oberkörper
+- bei jeder unkalren Brustschmerz-Symptomatik ist eine schnellstmögliche ärztliche Klärung erforderlich
+## Bewusstseinstörung - Schlaganfall
+### Ursachen
+- Blutung
+- Verschluss(80%)
+### Symptome
+- Kopfschmerzen, Erbrechen
+- Schwindel
+- Sensibilitätsstörung
+- hängender Mundwinkel
+- Sprachstörung
+- Lähmungserscheinung
+- Bewussteinstörung
+- Symptome treten plötzlich von jetzt auf gleich auf
+### Maßnahmen
+- Lagerung mit erhöhtem Oberkörper(Ausnahme: Bewusstlosigkeit)
