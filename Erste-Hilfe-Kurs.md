@@ -9,9 +9,10 @@
 ## Herzinfarkt / Schlaganfall / Schock
 ## Vergiftung / Verärzung / Stromunfall / Krampfanfall
 ## Verbrennung / Verbrühung / Sonnenstich / Hitzschlag / Unterkühlung / Erfrierung
-## Organspende
+## Wissen
+[Organspendeausweis](https://www.organspende-info.de/organspendeausweis-download-und-bestellen/)
 [Unterlassene Hifeleistung](https://www.gesetze-im-internet.de/stgb/__323c.html)  
-
+## 
 ## Auffinden einer Person
 ### Bewusstlosigkeit
 - Erschlaffung der Muskulatur
