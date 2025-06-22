@@ -34,6 +34,20 @@ z.B. Kneifen an der Innenseite des Oberarmes
 - Fühlen
   - Luftstrom an der Wange des Helfers
   - Bewegung am Brustkorb oder Bauch
+### Herz-Lungen-Wiederbelebung
+- Oberkörper des Patienten freimachen
+- Druckpunkt: Mitte des Brustkorbs
+- Frequenz: ca. 2 HDM pro Sekunde
+- Tiefe: ca. 6cm
+- 30 Herzdruckmassage
+- 2-mal Beatmung
+### Todo流程图
+- Bewusstsein vorhanden
+situationsgerechte Hilfe leisten
+- Bewusstsein nicht vorhanden && Atmung vorhanden
+stabile Seitenlage
+- Bewusstsein nicht vorhanden && Atmung nicht vorhanden
+Herz-Lungen-Wiederbelebung(  + 2 Atemg
 ## Rettungskette
 1. Absichern / Eigenschutz  
 - Warnblinklicht einschalten
