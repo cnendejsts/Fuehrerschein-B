@@ -7,3 +7,9 @@
 ## Schienenverkehr
 ## Haltestelle Fußgängerüberweg
 ## Geradeausfahren
+# Fahrkompetenz
+## Verkehrsbeobachtung
+## Fahrzeugpositionierung
+## Geschwindigkeitsanpassung
+## Kommunikation
+## Fahrzeugbedienung / Umweltbewusste Fahrweise
