@@ -64,6 +64,10 @@
 1. Spiegel
 2. Blinker
 3. Schulterblick
+## Vorfahrtstraße endet
+- Ende der Vorfahrtstraße
+- Vorfahrt gewähren
+- Halt. Vorfahrt gewähren
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
