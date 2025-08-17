@@ -89,6 +89,15 @@ Querverkehr hat Vorfahrt
    >> anhalten
 4. Querverkehr abwarten, Überblick verschaffen, wenn frei
 >> fahren
+## Halt. Vorfahrt gewähren (STOP-Schild)
+1. Heranfahren, immer abbremsen
+>> an der Haltlinie anhalten (zähle 21,22)
+>> ohne Haltlinie immer an Sichtline halten
+2. Überblick verschaffen
+>> Blicke in beide Richtungen
+3. Querverkehr abwarten, Überblick verschaffen
+4. Wenn frei
+>> 1.Gang einlegen & fahren
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
