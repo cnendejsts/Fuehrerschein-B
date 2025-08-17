@@ -98,6 +98,11 @@ Querverkehr hat Vorfahrt
 3. Querverkehr abwarten, Überblick verschaffen
 4. Wenn frei
 >> 1.Gang einlegen & fahren
+## Einbahnstraße
+- √ Halten & Parken rechts & links
+- Links-/Rechtsabbiegende & Geradeausfahrende
+>> links/rechts einordnen
+- mind. 1,5 m Seitenabstand beim Überholen von Fahrrädern/Eletrokleinstfahrzeug mit Zusaztzeichen
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
