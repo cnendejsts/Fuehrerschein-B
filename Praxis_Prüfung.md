@@ -47,6 +47,10 @@
   - Polizei
   - Krankenwagen
   - Feuerwehr
+## Ortsschild/-tafel
+- Bad Lippspringe Kreis Paderborn
+  - max. 50 km/h (ohne andere Verkehrszeichen)
+  - freie Fahrstreifenwahl (bei 2 oder mehr Fahrstreifen je Richtung)
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
