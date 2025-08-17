@@ -48,9 +48,13 @@
   - Krankenwagen
   - Feuerwehr
 ## Ortsschild/-tafel
+黄底黑字
 - Bad Lippspringe Kreis Paderborn
   - max. 50 km/h (ohne andere Verkehrszeichen)
   - freie Fahrstreifenwahl (bei 2 oder mehr Fahrstreifen je Richtung)
+- Schotten 6km Wilster
+  - max. 100 km/h (ohne andere Verkehrszeichen)
+  - Rechtsfahrgebot
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
