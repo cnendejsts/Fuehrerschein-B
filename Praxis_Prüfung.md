@@ -4,6 +4,10 @@
 - DD = Fahrten bei Dämmerung/Dunkelheit
 - F = Übungsfahrt
 - 1 Std. = 45 Min.
+## Einsteigen
+- Sitz
+- Lehne/Kopfstütze/Sicherheitsgurt
+- Lenkrad
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
