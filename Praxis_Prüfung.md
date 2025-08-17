@@ -1,3 +1,14 @@
+## Abkürzungen
+- A
+Autohahnfahrt (autobahnähnlich ausgebaute Kraftfahrstraße)
+- ÜL
+Überlandfahrt (Bundes- und Landstraßen)
+- DD
+Fahrten bei Dämmerung/Dunkelheit
+- F
+Übungsfahrt
+- 1 Std.
+45 Min.
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
