@@ -64,10 +64,19 @@
 1. Spiegel
 2. Blinker
 3. Schulterblick
-## Vorfahrtstraße endet
+## Vorfahrtstraße
+endet
 - Ende der Vorfahrtstraße
 - Vorfahrt gewähren
 - Halt. Vorfahrt gewähren
+## Abknickende Vorfahrtstraße
+wer fährt:
+- zuerst
+  - Wer auf der Vorfahrtstraße ist - und darauf bleibt
+- danach
+  - Wer auf der Vorfahrtstraße ist - und sie verlässt
+- zuletzt
+  - Wer aus den untergeordneten Straßen kommt
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
