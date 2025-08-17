@@ -38,6 +38,15 @@
 3. erst dann die Bremse wieder lösen
 4. dabei die Kupplung am Schleifpunkt halten
 5. wenn das Auto rollt, Gas geben, Kupplung lösen
+## Rechtsfahrgebot
+- Fahrzeuge müssen die Fahrbahnen benutzen, von 2 Fahrbahnen die rechte
+- Seitenstreifen sind nicht Teil der Fahrbahn
+- Gegenverkehr, Überholtwerden, Kuppe, Kurve, Kreisverkehr & unübersichtliche Stellen
+## Einsatzfahrzeuge
+- mit Blaulicht & Martinshorn
+  - Polizei
+  - Krankenwagen
+  - Feuerwehr
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
