@@ -77,6 +77,18 @@ wer fährt:
   - Wer auf der Vorfahrtstraße ist - und sie verlässt
 - zuletzt
   - Wer aus den untergeordneten Straßen kommt
+## Vorfahrt gewähren
+Querverkehr hat Vorfahrt  
+1. Bremsbereit heranfahren
+>> Füß über Kupplung & Bremse
+2. Überblick verschaffen
+>> Blicke in beide Richtungen
+3. a) Wenn frei ist  
+   >> rollen lassen  
+   b) Wenn etwas kommt  
+   >> anhalten
+4. Querverkehr abwarten, Überblick verschaffen, wenn frei
+>> fahren
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
