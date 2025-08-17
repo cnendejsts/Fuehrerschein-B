@@ -55,6 +55,11 @@
 - Schotten 6km Wilster
   - max. 100 km/h (ohne andere Verkehrszeichen)
   - Rechtsfahrgebot
+## RvL
+1. An Kreuzungen & Einmündungen ohne vorfahrtreglende Zeichen
+2. Haifischzähne
+3. 🔺+ x
+4. Kommen aus jeder Richtung gleichzeitig Fahrzeuge (Blockade) >> mit Handzeichen verständigen
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
