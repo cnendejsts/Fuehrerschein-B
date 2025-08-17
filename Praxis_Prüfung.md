@@ -25,6 +25,12 @@
   - 50 km/h -> 4. Gang
   - 70 km/h -> 5. Gang
   - 80 km/h -> 6. Gang
+## Tastgeschwindigkeit
+- Fußgängerüberweg
+- Einparke & Ausparken
+- Rückwärtsfahren
+- an Hindernissen
+- auf dem Weg zw. Haltline und Sichtlinie beim STOP-Schild
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
