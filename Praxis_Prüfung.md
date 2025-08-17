@@ -60,6 +60,10 @@
 2. Haifischzähne
 3. 🔺+ x
 4. Kommen aus jeder Richtung gleichzeitig Fahrzeuge (Blockade) >> mit Handzeichen verständigen
+## Abbiegen
+1. Spiegel
+2. Blinker
+3. Schulterblick
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
