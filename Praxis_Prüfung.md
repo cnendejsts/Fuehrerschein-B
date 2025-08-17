@@ -18,6 +18,13 @@
 2. Außenspiegel: nach hinten seitlich absichern
 3. Blinker: den anderen die eigene Absicht anzeigen
 4. Spiegel & Schulterblick: zur Seite absichern
+## Schalten
+- Drehzahl: 1800-2000 U/min
+  - 15-17 km/h -> 2. Gang
+  - 30 km/h -> 3. Gang
+  - 50 km/h -> 4. Gang
+  - 70 km/h -> 5. Gang
+  - 80 km/h -> 6. Gang
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
