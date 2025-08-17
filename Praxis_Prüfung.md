@@ -103,6 +103,8 @@ Querverkehr hat Vorfahrt
 - Links-/Rechtsabbiegende & Geradeausfahrende
 >> links/rechts einordnen
 - mind. 1,5 m Seitenabstand beim Überholen von Fahrrädern/Eletrokleinstfahrzeug mit Zusaztzeichen
+## Verbot der Einfahrt
+Rund & Rot = Verbot
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
