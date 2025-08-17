@@ -31,6 +31,13 @@
 - Rückwärtsfahren
 - an Hindernissen
 - auf dem Weg zw. Haltline und Sichtlinie beim STOP-Schild
+## Anfahren am Berg/an einer Steigung
+- **Fuß- & Handbremse** verhindern **Zurückrollen**
+1. Bremse treten/Handbremse ziehen
+2. Kupplung bis zum Schleifpunkt lösen
+3. erst dann die Bremse wieder lösen
+4. dabei die Kupplung am Schleifpunkt halten
+5. wenn das Auto rollt, Gas geben, Kupplung lösen
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
