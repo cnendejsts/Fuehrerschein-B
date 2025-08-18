@@ -111,6 +111,8 @@ Rund & Rot = Verbot
 - Beim Verlassen haben alle anderen Vorfahrt!
 ## Fahrradstraße
 - max. 30 km/h
+## Tempolimit: Zone vs. Strecke
+- Hinter der 30er-Zone/Strecke darf man innerorts wieder 50 km/h fahren
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
