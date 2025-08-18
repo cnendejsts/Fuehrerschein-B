@@ -122,6 +122,10 @@ Rund & Rot = Verbot
 >> bremsen
 >> ggf. Hupen
 >> **nicht ausweichen!**
+## Leitpfosten
+- agO 50m
+- 100 km/h:
+>> 50 m (vorgeschriebener Mindestabstand) = 1 Leitpfosten
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
