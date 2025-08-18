@@ -113,6 +113,15 @@ Rund & Rot = Verbot
 - max. 30 km/h
 ## Tempolimit: Zone vs. Strecke
 - Hinter der 30er-Zone/Strecke darf man innerorts wieder 50 km/h fahren
+## Überholverbote
+- P29
+## Wildwechsel
+- Geschwindigkeit verringern & Aufmerksamkeit erhöhen
+- Falls tatsächlich Wildtiere zu sehen sind:
+>> abblenden (Fernlicht ausschalten)
+>> bremsen
+>> ggf. Hupen
+>> **nicht ausweichen!**
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
