@@ -109,6 +109,8 @@ Rund & Rot = Verbot
 - Schrittgeschwindigkeit
 >> im 1. Gang rollen lassen (max. 5-8 km/h)
 - Beim Verlassen haben alle anderen Vorfahrt!
+## Fahrradstraße
+- max. 30 km/h
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
