@@ -126,6 +126,14 @@ Rund & Rot = Verbot
 - agO 50m
 - 100 km/h:
 >> 50 m (vorgeschriebener Mindestabstand) = 1 Leitpfosten
+## Ampel
+- Rot-Gelb
+  - Gang einlegen
+- Grün
+  - Verkehr beobachten
+  - anfahren
+## Ampel-Pfeile
+P33
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
