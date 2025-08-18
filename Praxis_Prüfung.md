@@ -145,6 +145,8 @@ P33
 3. Schulterblick nach rechts
 4. nach rechts einfahren & rechts im Fahrstreifen fahren
 5. vor dem Ausfahren: Spiegel, Blinker, Schulterblick
+## Schutzstreifen für den Radverkehr
+x Halten/Parken
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
