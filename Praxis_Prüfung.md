@@ -105,6 +105,10 @@ Querverkehr hat Vorfahrt
 - mind. 1,5 m Seitenabstand beim Überholen von Fahrrädern/Eletrokleinstfahrzeug mit Zusaztzeichen
 ## Verbot der Einfahrt
 Rund & Rot = Verbot
+## Verkehrsberuhigter Bereich
+- Schrittgeschwindigkeit
+>> im 1. Gang rollen lassen (max. 5-8 km/h)
+- Beim Verlassen haben alle anderen Vorfahrt!
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
