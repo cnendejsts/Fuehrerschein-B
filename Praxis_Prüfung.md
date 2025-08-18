@@ -139,6 +139,12 @@ P33
   - dahinter abbiegen
 - gerader pfeil
   - davor abbiegen
+## Kreisverkehr
+1. Geschwindigkeit & Gang anpassen
+2. Blick nach links
+3. Schulterblick nach rechts
+4. nach rechts einfahren & rechts im Fahrstreifen fahren
+5. vor dem Ausfahren: Spiegel, Blinker, Schulterblick
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
