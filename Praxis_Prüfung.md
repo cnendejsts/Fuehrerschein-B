@@ -134,6 +134,11 @@ Rund & Rot = Verbot
   - anfahren
 ## Ampel-Pfeile
 P33
+## Pfeilschilder
+- gebogener Pfeil
+  - dahinter abbiegen
+- gerader pfeil
+  - davor abbiegen
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
