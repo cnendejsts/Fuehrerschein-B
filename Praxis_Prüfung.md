@@ -165,6 +165,10 @@ Nachfolgende nicht behindern
   - agO -> 50 m
 - beim **Halten**
   - Motor ausschalten
+## Straßenbahn
+- an **Haltestellen** wenn Fahrgäste **Ein- oder Aussteigen**, mit großem Abstand & nur mit **Schrittgeschwindigkeit** vorbeifahren
+- nur **rechts** überholt werden
+- Einbahnstraße oder wenn Schienen zu weit rechts verlaufen, **links** (Gegenverkehr!)
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
