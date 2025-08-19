@@ -169,6 +169,13 @@ Nachfolgende nicht behindern
 - an **Haltestellen** wenn Fahrgäste **Ein- oder Aussteigen**, mit großem Abstand & nur mit **Schrittgeschwindigkeit** vorbeifahren
 - nur **rechts** überholt werden
 - Einbahnstraße oder wenn Schienen zu weit rechts verlaufen, **links** (Gegenverkehr!)
+## Bus mit Warnblinklicht an der Bushaltestelle
+- in Gegenrichtung
+  - Schrittgeschwindigkeit
+- in derselben Richtung
+  - **Überholverbot**, solange sich der Bus mit eingeschaltetem Warnblinker **bewegt**
+  - Spiegel, Blinker, Schulterblick, mit Schrittgeschwindigkeit vorbeifahren wenn der Bus **hält**
+- An einer Haltestelle darf ich bis zu **3 Minuten halten**, wenn kein Bus behindert wird
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
