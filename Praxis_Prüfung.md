@@ -191,6 +191,7 @@ Nachfolgende nicht behindern
   - Beifahrer: links
 # Fahraufgaben
 ## Fahren nach rechts rückwärts
+30 cm
 ## Einparken: Längs
 ## Einparken: Quer
 ## Umkehren
