@@ -163,7 +163,7 @@ Nachfolgende nicht behindern
 - min. beim **Parken** vor dem Andreaskreuz
   - igO -> 5 m
   - agO -> 50 m
-- beim **Warten**
+- beim **Halten**
   - Motor ausschalten
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
