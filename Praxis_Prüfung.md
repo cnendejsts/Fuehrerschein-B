@@ -176,6 +176,10 @@ Nachfolgende nicht behindern
   - **Überholverbot**, solange sich der Bus mit eingeschaltetem Warnblinker **bewegt**
   - Spiegel, Blinker, Schulterblick, mit Schrittgeschwindigkeit vorbeifahren wenn der Bus **hält**
 - An einer Haltestelle darf ich bis zu **3 Minuten halten**, wenn kein Bus behindert wird
+## Füßgängerüberwege
+- vor Füßergängerüberweg
+  - nicht überholen
+  - nicht halten (bis 5 m davor)
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
