@@ -190,17 +190,12 @@ Nachfolgende nicht behindern
   - Fahrer: rechts
   - Beifahrer: links
 # Fahraufgaben
-## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
-## Kurve
-## Vorbeifahren Überholen
-## Kreuzung Einmündung Einfahren
-## Kreisverkehr
-## Schienenverkehr
-## Haltestelle Fußgängerüberweg
-## Geradeausfahren
+## Fahren nach rechts rückwärts
+## Einparken: Längs
+## Einparken: Quer
+## Umkehren
+## Gefahrbremsung
+# Fahrerassistenzsysteme
+P58
 # Fahrkompetenz
-## Verkehrsbeobachtung
-## Fahrzeugpositionierung
-## Geschwindigkeitsanpassung
-## Kommunikation
-## Fahrzeugbedienung / Umweltbewusste Fahrweise
+P59
