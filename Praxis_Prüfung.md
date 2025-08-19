@@ -180,6 +180,15 @@ Nachfolgende nicht behindern
 - vor Füßergängerüberweg
   - nicht überholen
   - nicht halten (bis 5 m davor)
+## Fahrtabschluss
+1. a) im Schaltfahrzeug Gang einlegen & Feststellbremse betätigen beim Abstellen in Steigung/Gefälle
+   b) im Automatik-Fahrzeug Schalthebel in P-Stellung
+2. Motor aus, Schlüssel abziehen
+3. Fahrzeug abschließen
+4. vor dem Öffnen der Tür Verkehr beobachten & Mitfahrende daran erinnern
+- Holländischer Griff
+  - Fahrer: rechts
+  - Beifahrer: links
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
