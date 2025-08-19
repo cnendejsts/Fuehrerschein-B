@@ -151,8 +151,14 @@ x Halten/Parken
 beschleunigen!
 1. beim Auffahren auf den Einfädelungsstreifen den rückwärtigen Verkehr beobachten und eine ausreichende Lücke suchen
 2. auf dem Einfädelungsstreifen nicht schalten, bis der Fahrstreifen gewechselt wurde (3.Gang)
-3. Fahrstreifenwechsel möglichst im letzten Drittel des Einfädelungsstreifens
+3. Fahrstreifen**wechsel** möglichst im **letzten Drittel** des Einfädelungsstreifens (Spiegel- & Schulterblick)
 - Schon am **Anfang** des Einfädelungsstreifens den **Blinker** setzen!
+## Ausfädelungsstreifen
+Nachfolgende nicht behindern
+1. Auf **Autobahnen** ab der **300-m**-Bake den **Blinker** setzen
+2. Fahrstreifen**wechsel** am **Beginn** des Ausfädelungsstreifens (Spiegel- & Schulterblick)
+3. Die **Geschwindigkeit** erst auf dem **Ausfädelungsstreifen reduzieren**
+- Nach dem hohen Tempo auf der Autobahn zum "Runterkommen" **Geschwindigkeit** am **Tacho** prüfen
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
