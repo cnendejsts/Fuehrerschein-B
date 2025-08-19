@@ -159,6 +159,12 @@ Nachfolgende nicht behindern
 2. Fahrstreifen**wechsel** am **Beginn** des Ausfädelungsstreifens (Spiegel- & Schulterblick)
 3. Die **Geschwindigkeit** erst auf dem **Ausfädelungsstreifen reduzieren**
 - Nach dem hohen Tempo auf der Autobahn zum "Runterkommen" **Geschwindigkeit** am **Tacho** prüfen
+## Bahnübergang
+- min. beim **Parken** vor dem Andreaskreuz
+  - igO -> 5 m
+  - agO -> 50 m
+- beim **Warten**
+  - Motor ausschalten
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
