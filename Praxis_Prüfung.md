@@ -147,6 +147,12 @@ P33
 5. vor dem Ausfahren: Spiegel, Blinker, Schulterblick
 ## Schutzstreifen für den Radverkehr
 x Halten/Parken
+## Einfädelungsstreifen
+beschleunigen!
+1. beim Auffahren auf den Einfädelungsstreifen den rückwärtigen Verkehr beobachten und eine ausreichende Lücke suchen
+2. auf dem Einfädelungsstreifen nicht schalten, bis der Fahrstreifen gewechselt wurde (3.Gang)
+3. Fahrstreifenwechsel möglichst im letzten Drittel des Einfädelungsstreifens
+- Schon am **Anfang** des Einfädelungsstreifens den **Blinker** setzen!
 # Fahraufgaben
 ## Ein- und Ausfädelungsstreifen Fahrstreifenwechsel
 ## Kurve
