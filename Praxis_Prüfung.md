@@ -14,6 +14,8 @@
   - Außenspiefel - hinterer Türgriff
   - Blinker
   - Schulterblick
+## Lenken
+10-vor-2-Stellung
 ## Toter Winkel (blind spot)
 - Schulterblick
 ## Spiegel - Blinker - Schulterblick
