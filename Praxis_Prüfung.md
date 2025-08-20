@@ -208,6 +208,37 @@ Nachfolgende nicht behindern
 ## Gefahrbremsung
 # Fahrerassistenzsysteme
 ## Tempomat
-- hält
+- hält nur die Geschwindigkeit, aber nicht den Abstand
+- Abstand zu Vorausfahrenden ist selbst zu regeln
+## ACC/Cruise Control
+- Hält Geschwindigkeit & Abstand, bremst & beschleunigt
+- Bremst für Abbiegende ggf. wie für stehendes Hindernis
+## Notbrems-Assistent
+- Bremst im Notfall direkt & selbstständig (Unfallverhütung)
+- Notbremsung ggf. deaktiviert (Anzeige beachten)
+## Abbiege-Assistent
+- warnt vor Hindernissen (z.B. Personen) im Abbiege-Bereich
+- ersetzt nicht den Spiegel- & Schulterblick beim Abbiegen
+## Spurhalte-Assistent
+- warnt beim Verlassen der Spur (ohne Blinken)
+- unzuverlässig bei gelben Markierungen (Baustelle)
+## Spurwechsel-Assistent
+- überwacht den Spurwechsel (nach Blinken)
+- ersetzt nicht den Spiegel- & Schulterblick beim Fahrstreifenwechsel
+## Toter-Winkel-Assistent
+- warnt vor Fahrzeugen, die in den Spiegeln nicht zu sehen sind
+- den Toten Winkel vor Fahrstreifenwechseln immer auch selbst absichern
+## Aktiver Spurwechsel-Assistent
+- übernimmt den Spurwechsel selbstständig
+- ich muss den automatischen Fahrstreifenwechsel beaufsichtigen
+## Aktiver Park-Assistent
+- übernimmt das Lenken beim Einparken
+- ich muss den automatischen Parkvorgang beaufsichtigen
+## Rückfahrkamera
+- Zeigt beim Einparken, was hinter mir ist
+- beim Einparken nicht allein auf das Kamera-Bild verlassen
+## Verkehrszeichenerkennung
+- zeigt z.B. aktuelle Geschwindigkeitsbeschränkungen an
+- bei schlechter Witterung ggf. Erkennungsprobleme
 # Fahrkompetenz
 P59
