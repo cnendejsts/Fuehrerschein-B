@@ -8,9 +8,12 @@
 - Sitz
 - Lehne/Kopfstütze/Sicherheitsgurt
 - Lenkrad
-## Verkehrsbeobachtung (Spiegel)
-- Innenspiegel - Heckscheibe
-- Außenspiefel - hinterer Türgriff
+## Verkehrsbeobachtung
+- IABS
+  - Innenspiegel - Heckscheibe
+  - Außenspiefel - hinterer Türgriff
+  - Blinker
+  - Schulterblick
 ## Toter Winkel (blind spot)
 - Schulterblick
 ## Spiegel - Blinker - Schulterblick
