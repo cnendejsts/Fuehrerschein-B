@@ -24,6 +24,7 @@
 3. Blinker: den anderen die eigene Absicht anzeigen
 4. Spiegel & Schulterblick: zur Seite absichern
 ## Schalten
+- 换好档后抬离合，前1/3慢慢抬，挡位越高，离合器可以抬得越快。
 - Drehzahl: 1800-2000 U/min
   - 15-17 km/h -> 2. Gang
   - 30 km/h -> 3. Gang
