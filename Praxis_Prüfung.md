@@ -207,6 +207,7 @@ Nachfolgende nicht behindern
 ## Umkehren
 ## Gefahrbremsung
 # Fahrerassistenzsysteme
-P58
+## Tempomat
+- hält
 # Fahrkompetenz
 P59
